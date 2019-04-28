@@ -21,4 +21,14 @@ flask run
 ```
 
 ### 截图
+![](https://github.com/juventusryp/schoolsystem/blob/master/%E5%90%8E%E5%8F%B001.gif)
+
+![](https://github.com/juventusryp/schoolsystem/blob/master/%E7%94%B3%E8%AF%B7.gif)
+
+![](https://github.com/juventusryp/schoolsystem/blob/master/1.jpg)
+
+![](https://github.com/juventusryp/schoolsystem/blob/master/2.jpg)
+
+![](https://github.com/juventusryp/schoolsystem/blob/master/3.jpg)
+
 
