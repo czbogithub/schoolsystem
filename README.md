@@ -31,4 +31,9 @@ flask run
 
 ![](https://github.com/juventusryp/schoolsystem/blob/master/3.jpg)
 
+### 贡献者：
+dafei5350、XishngMix
 
+### 广告：
+有需要二次开发的朋友，欢迎咨询淘宝店
+[学籍管理系统](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.25911debavfWhk&ft=t&id=593087174095)
